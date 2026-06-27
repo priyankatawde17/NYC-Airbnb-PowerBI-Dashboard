@@ -130,15 +130,3 @@ Avg Availability  = AVERAGE(fact_table[availability_365])
 
 > 📥 Dataset not included due to size — download `AB_NYC_2019.csv` from [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) and refresh the data source.
 
----
-
-## 👩‍💻 About Me
-
-**Priyanka Santosh Tawde**
-Aspiring Data Analyst | Power BI · Tableau · SQL · Excel
-
-📫 [LinkedIn](#) | 🌐 [Portfolio](#) | 📧 [Email](#)
-
----
-
-*⭐ If you found this project helpful, feel free to star the repository!*
